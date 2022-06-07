@@ -1,0 +1,38 @@
+[
+	{
+		"image": "welcome1.png",
+		"textbox": {"x": 2000, "y": 2050, "w": 1450, "h": 350}
+	},
+	{
+		"image": "welcome2.png",
+		"textbox": {"x": 2000, "y": 2050, "w": 1450, "h": 350}
+	},
+	{
+		"image": "welcome3.png",
+		"textbox": {"x": 2000, "y": 2050, "w": 1450, "h": 350}
+	},
+	{
+		"image": "welcome4.png",
+		"textbox": {"x": 2000, "y": 2050, "w": 1450, "h": 350}
+	},
+	{
+		"image": "welcome5.png",
+		"textbox": {"x": 2000, "y": 2050, "w": 1450, "h": 350}
+	},
+	{
+		"image": "welcome6.png",
+		"textbox": {"x": 2000, "y": 2050, "w": 1450, "h": 350}
+	},
+	{
+		"image": "welcome7.png",
+		"textbox": {"x": 2000, "y": 2050, "w": 1450, "h": 350}
+	},
+	{
+		"image": "welcome8.png",
+		"textbox": {"x": 2000, "y": 2050, "w": 1450, "h": 350}
+	},
+	{
+		"image": "welcome9.png",
+		"textbox": {"x": 2000, "y": 2050, "w": 1450, "h": 350}
+	}
+]
