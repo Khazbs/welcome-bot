@@ -5,7 +5,7 @@ import os
 import card
 
 intents = discord.Intents(guilds=True, members=True, messages=True)
-bot = commands.Bot(command_prefix='!', intents=intents)
+bot = commands.Bot(command_prefix='!', intents=intents, help_command=None)
 
 
 def is_from_command_channel(ctx):
